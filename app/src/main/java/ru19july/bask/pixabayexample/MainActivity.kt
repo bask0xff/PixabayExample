@@ -2,7 +2,6 @@ package ru19july.bask.pixabayexample
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import androidx.fragment.app.Fragment
 import dagger.hilt.android.AndroidEntryPoint
 import ru19july.bask.pixabayexampl.ui.FeedFragment
 
