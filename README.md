@@ -1,5 +1,3 @@
-Test task based on empty TEMPLATE https://github.com/androidbroadcast/PixabayTemplate/tree/main/app/src/main/java/dev/androidbroadcast/pixabaytemplate
-
 [Pixabay API](https://pixabay.com/api/docs/)
 
 ![Subaru](https://i.imgur.com/TAzlftS.jpg)
@@ -12,3 +10,4 @@ Test task based on empty TEMPLATE https://github.com/androidbroadcast/PixabayTem
 
 ![Tesla](https://i.imgur.com/YQApEKZ.jpg)
 
+The test task based on empty TEMPLATE https://github.com/androidbroadcast/PixabayTemplate/tree/main/app/src/main/java/dev/androidbroadcast/pixabaytemplate
